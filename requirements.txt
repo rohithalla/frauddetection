@@ -2,3 +2,4 @@ requests
 werkzeug==1.0.0
 gunicorn==19.9.0
 Flask==1.1.1
+numpy
